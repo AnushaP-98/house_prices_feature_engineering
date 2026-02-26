@@ -48,3 +48,5 @@ A unique random feature was generated based on my student ID and treated as a re
 - house_prices_feature_engineering.ipynb (Fully executed notebook)
 - house_prices_raw_dataset.csv
 - feature_engineering_report.pdf
+## Learning Outcome
+- This project strengthened my understanding of how data transformation directly impacts downstream predictive modeling.
